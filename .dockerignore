@@ -1,0 +1,8 @@
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.git-blame-ignore-revs
+.eslintignore
+README
+outputs/.
